@@ -1,0 +1,1 @@
+I’m embarking on a 100-day coding journey, building real-time, usable Python projects each day. Starting with core concepts and progressing to more advanced techniques, all while honing my skills and deepening my understanding of programming.

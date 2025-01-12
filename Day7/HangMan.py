@@ -55,10 +55,3 @@ while not game_over:
         correct_letters.append(guess)
 
     print(stages[lives])
-
-# importing modules can be done by
-# way 1:
-# import module
-# use module.part_you_need_in_module
-# way 2:
-# directly use module.part_you_need_in_module

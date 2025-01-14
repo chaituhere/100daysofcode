@@ -1,5 +1,6 @@
 # Day 9: Dictionaries, Nesting
 # Blind Auction Project
+
 from art import logo
 print(logo)
 
